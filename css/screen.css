@@ -245,7 +245,7 @@ h1 {
 body {
   background-color: #CAC4C4;
 }
-li#input=submit {
+input[type=submit] {
   background-color: #BB9090;
   margin-top: 30px;
   margin-bottom:23px;
