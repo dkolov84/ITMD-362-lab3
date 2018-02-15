@@ -237,7 +237,7 @@ label {
 h1 {
   font-size: 30px;
   font-weight: 900;
-  font-style: Goudy Stout, sans-serif;
+  font-style: Castellar, sans-serif;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 10px;
@@ -266,5 +266,6 @@ p {
 }
 li#input-age-verification {
   font-size: small;
-  font-style: Forte, sans-serif;
+  font-style: Forte, sans-serif; 
+  margin-top: 30px;
 }
