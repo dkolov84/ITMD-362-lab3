@@ -234,3 +234,11 @@ label {
   	text-align: right;
   }
 }
+h1 {
+  font-size: 30px;
+  font-weight: 900;
+  font-style: Broadway, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
