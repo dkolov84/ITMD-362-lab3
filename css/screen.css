@@ -247,7 +247,7 @@ body {
 }
 input[type=submit] {
   background-color: #BB9090;
-  margin-top: 30px;
+  margin-top: 35px;
   margin-bottom:23px;
   margin-left: 45%;
   text-align: center;
@@ -263,7 +263,7 @@ p {
   padding-top: 7px;
   pading bottom: 7px;
   margin-top: 20px;
-  margin-bottom: 35%;
+  margin-bottom: 30%;
 }
 li#input-age-verification {
   font-size: small;
