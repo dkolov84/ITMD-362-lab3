@@ -218,9 +218,6 @@ label {
 	  width: 100%;
     float: none;
   }
-  p {
-    font-family: Forte, sans-serif;
-	}
   form > fieldset {
     width: 99%;
     float: none;
@@ -234,11 +231,7 @@ label {
   form > label,
 	legend {
   	text-align: right;
-  }
-  p {
-    font-family: Forte, sans-serif;
-	}
-	  
+  }	  
 }
 h1 {
   font-size: 30px;
